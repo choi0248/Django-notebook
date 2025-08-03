@@ -207,4 +207,6 @@ marimo/_lsp/
 __marimo__/
 .venv/
 .idea/
-db.sqlite3
+db.sqlite3/
+migration/
+
